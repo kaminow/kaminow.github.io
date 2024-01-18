@@ -16,9 +16,10 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
+<!--
 > **NOTE:** This website is currently a work in progress, and the information presented
 > here may be incomplete or inaccurate.
+ -->
 
 I am a 3rd year graduate student working on structure-based machine learning methods for drug discovery.
 My work has largely been done as a part of the [AI-driven Structure-enabled Antiviral Platform (ASAP) AViDD Center](https://asapdiscovery.org/), where I've gained exposure to working as part of a drug discovery team pursuing antiviral treatments against SARS-CoV-2 and other viruses with pandemic-causing potential.
