@@ -4,6 +4,7 @@ title: about
 permalink: /
 subtitle: >
   <a href="https://www.choderalab.org/">Chodera Lab</a>,
+  <a href="https://asapdiscovery.org/">ASAP Discovery Consortium</a>,
   <a href="https://compbio.triiprograms.org/">Tri-I Program in Computational Biology & Medicine</a>
 
 profile:
