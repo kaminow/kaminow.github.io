@@ -28,7 +28,7 @@
       "url": "https://compbio.triiprograms.org/",
       "area": "Computational Biology and Medicine",
       "studyType": "PhD",
-      "startDate": "2021-07",
+      "startDate": "2021",
       "endDate": "",
       "score": "",
       "courses": []
@@ -39,8 +39,8 @@
       "url": "https://www.jhu.edu/",
       "area": "Chemical and Biomolecular Engineering",
       "studyType": "BSc",
-      "startDate": "2015-09",
-      "endDate": "2019-05",
+      "startDate": "2015",
+      "endDate": "2019",
       "courses": []
     }
   ],
@@ -49,8 +49,8 @@
       "name": "Cold Spring Harbor Laboratory",
       "position": "Computational Science Developer",
       "url": "https://www.cshl.edu/",
-      "startDate": "2019-06",
-      "endDate": "2021-06",
+      "startDate": "2019",
+      "endDate": "2021",
       "summary": "Worked with Dr. Alex Dobin developing computational methods to construct and analyze consensus genomes.",
       "highlights": []
     }
@@ -59,7 +59,7 @@
   "awards": [
     {
       "title": "Graduate Research Fellowship Program",
-      "date": "2023-03-29",
+      "date": "2023",
       "awarder": "National Science Foundation",
       "url": "https://www.nsfgrfp.org/",
       "summary": "The NSF Graduate Research Fellowship Program is a highly competitive fellowship that seeks to support graduate students pursuing research-based degrees in a STEM field."
