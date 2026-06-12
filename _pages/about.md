@@ -22,10 +22,12 @@ social: true # includes social icons at the bottom of the page
 > here may be incomplete or inaccurate.
  -->
 
-I am a 3rd year graduate student working on structure-based machine learning methods for drug discovery.
+I am a 5th year graduate student working on structure-based machine learning methods for drug discovery.
 My work has largely been done as a part of the [AI-driven Structure-enabled Antiviral Platform (ASAP) AViDD Center](https://asapdiscovery.org/), where I've gained exposure to working as part of a drug discovery team pursuing antiviral treatments against SARS-CoV-2 and other viruses with pandemic-causing potential.
 I have experience with computational chemistry techniques, including molecular modeling and docking.
 I am also well-versed in commonly used machine learning packages such as PyTorch and DGL, and have used these to build and train graph neural networks for predicting protein-ligand binding affinity from an input structure.
+
+**I am graduating in September 2026 and looking for a job! Please reach out if you have a role you would like to discuss!**
 
 
 <!--
