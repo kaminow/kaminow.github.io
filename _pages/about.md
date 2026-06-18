@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: headshot.png
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
