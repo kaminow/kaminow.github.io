@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Benjamin Kaminow",
-    "label": "Graduate Student",
+    "label": "",
     "image": "",
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "Graduate student pursuing a PhD in Computational Biology. Currently working on structure-based machine learning methods for predicting protein-ligand binding affinities.",
+    "summary": "Recent Ph.D. graduate in Computational Biology. Currently working on structure-based machine learning methods for predicting protein-ligand binding affinities.",
     "location": {},
     "profiles": [
       {
@@ -29,7 +29,7 @@
       "area": "Computational Biology and Medicine",
       "studyType": "PhD",
       "startDate": "2021",
-      "endDate": "",
+      "endDate": "2026",
       "score": "",
       "courses": []
     },
