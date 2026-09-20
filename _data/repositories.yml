@@ -2,5 +2,5 @@ github_users:
   - kaminow
 
 github_repos:
-  - choderalab/asapdiscovery
   - choderalab/mtenn
+  - choderalab/drugforge
